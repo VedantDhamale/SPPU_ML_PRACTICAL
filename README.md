@@ -19,8 +19,8 @@ To get started with this repository, follow the steps below:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
+   git clone https://github.com/VedantDhamale/SPPU_ML_PRACTICAL.git
+   cd SPPU_ML_PRACTICAL
    ```
 ## Technologies Used
 This repository utilizes the following technologies and libraries:
