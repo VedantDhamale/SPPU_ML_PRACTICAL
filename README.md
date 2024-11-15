@@ -6,13 +6,8 @@ Welcome to the Machine Learning Practicals and Datasets repository! This reposit
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Practicals](#practicals)
-- [Datasets](#datasets)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -24,8 +19,22 @@ To get started with this repository, follow the steps below:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
+   git clone https://github.com/VedantDhamale/SPPU_ML_PRACTICAL.git
+   cd SPPU_ML_PRACTICAL
    ```
+## Technologies Used
+This repository utilizes the following technologies and libraries:
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- sklearn
+- random
+
+
+
 
 Thank you for visiting my repository! Happy learning!
